@@ -1,4 +1,4 @@
-# Exp.No:20
+# Exp.No: 4E
 ## SEB - ARITHMETIC CALCULATION USING CLASS
 # AIM
 To write a Python program to perform addition and division operations using a class. The class should be named Saveetha, and the function names should be setvalues (to set a and b values), add, and div. The program should handle the following cases:
