@@ -1,4 +1,4 @@
-# Exp.No:4A
+EXP NO
 ## DICTIONARY - SIZE OF DICTIONARY
 # AIM
 To write a Python program to print the size of a dictionary using getsizeof() from the sys module.
