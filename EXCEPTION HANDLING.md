@@ -1,4 +1,3 @@
-# Exp.No: 4B
 ## EXCEPTION HANDLING
 # AIM
 To create a Python program that prompts the user for a list of grades separated by commas, splits the string into individual grades, and uses exception handling to inform the user if the values they entered cannot be converted to integers.
